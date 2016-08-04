@@ -1,0 +1,63 @@
+body{
+    background-color: #92e7a5;
+}
+
+div{
+    border: 2px solid white;
+}   
+
+#grande{
+    background-color: #92e7a5;
+    border: 2px solid white;
+    width: 96%;
+    height:90%;
+    margin: 20px 5px ;
+    position: absolute;
+}
+#uno {
+    display: inline-block;
+    background-color: #92e7a5 ;
+    padding: 200px 80px;
+    position: absolute;
+    float: left;
+    margin-left: 0px;
+    margin-top: 100px;
+}
+#dos {
+    display: inline-block;
+    background-color: #92e7a5 ;
+    border-radius: 100%;
+    padding: 100px 100px;
+    position: absolute;
+    float: right;
+    margin-left: 370px;
+    margin-top: 190px;
+}
+#tres {
+    display: inline-block;
+    background-color: #92e7a5;
+    padding: 200px 80px;
+    float: right;
+    position: relative;
+    left: 49px;    
+    margin-top: 100px;
+}
+.a{
+    float: right;
+    display:inline-block ;
+    margin-top: 50px;
+    right: 80px;
+
+}
+.b{
+    float:right;
+    display:inline-block ;
+    margin-top:100px ;
+    left: 180px;
+}
+.c{
+    float:left;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 160px;
+}
